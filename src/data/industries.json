@@ -1,0 +1,37 @@
+[
+  {
+    "id": "aerospace",
+    "name": "Aerospace",
+    "slug": "aerospace",
+    "description": "Aerospace assembly and MRO operations demand high-performance adhesives, sealants, and contamination-control supplies. InOut's product range supports bonding, corrosion protection, and cleanroom handling for avionics and structural components.",
+    "icon": "airplane"
+  },
+  {
+    "id": "pharmaceutical",
+    "name": "Pharmaceutical",
+    "slug": "pharmaceutical",
+    "description": "GMP-compliant pharmaceutical facilities trust InOut for sterile cleanroom garments, powder-free gloves, face masks, and controlled-environment consumables that support aseptic manufacturing and regulatory compliance.",
+    "icon": "capsule"
+  },
+  {
+    "id": "hospitality",
+    "name": "Hospitality",
+    "slug": "hospitality",
+    "description": "Hotels, restaurants, and food service operations rely on InOut for hygienic cleaning supplies, PPE, and contamination-control products that meet food safety standards and maintain a clean, safe environment for staff and guests.",
+    "icon": "hotel"
+  },
+  {
+    "id": "medical-device",
+    "name": "Medical Device",
+    "slug": "medical-device",
+    "description": "Medical device manufacturers require validated, traceable consumables. InOut provides ISO-certified cleanroom wipes, gloves, and packaging materials that meet ISO 13485 and FDA requirements for device production and assembly.",
+    "icon": "heart-pulse"
+  },
+  {
+    "id": "semiconductor",
+    "name": "Semiconductor & Microelectronics",
+    "slug": "semiconductor",
+    "description": "Semiconductor fabs demand ultra-clean environments and zero-defect consumables. InOut supplies ISO Class 4–6 cleanroom gloves, wipes, face masks, and ESD-safe apparel engineered to meet the stringent particle and contamination standards of wafer fabrication and chip packaging lines.",
+    "icon": "microchip"
+  }
+]

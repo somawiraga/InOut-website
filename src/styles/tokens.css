@@ -1,0 +1,60 @@
+/* InOut Design System — CSS Tokens
+   Sourced from html/css/style.css and html/docs/design.md
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;500;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  /* Brand */
+  --yellow: #ffd900;
+  --dark-bg: #26262e;
+  --blue: #175cd3;
+
+  /* Surface */
+  --white: #ffffff;
+  --card-bg: #f7faff;
+  --section-light: #f5f7fa;
+  --section-gray: #edf2f7;
+  --gray-100: #f7f7f7;
+
+  /* Text */
+  --text-dark: #1a1a1a;
+  --text-med: #4d4d4d;
+  --text-light: #767676;
+  --text-muted: #8c8c8c;
+  --error: #c0392b;
+  --gray-500: #a6a6a6;
+  --gray-700: #4d4d4d;
+
+  /* Border */
+  --border: #e0e0eb;
+  --border-light: #cccccc;
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+
+  /* Shadow */
+  --shadow-card: 4px 4px 8px rgba(204, 204, 204, 0.5);
+
+  /* Layout */
+  --max-w: 1440px;
+  --hero-height: 560px;
+
+  /* Typography */
+  --font-head: 'Exo 2', sans-serif;
+  --font-body: 'Inter', sans-serif;
+}
+
+/* Dark mode overrides */
+[data-theme='dark'] {
+  --section-light: #2a2a35;
+  --section-gray: #1e1e26;
+  --text-dark: #ffffff;
+  --text-med: #cccccc;
+  --text-light: #a3a3a3;
+  --border: #4d4d59;
+  --card-bg: #22222b;
+}

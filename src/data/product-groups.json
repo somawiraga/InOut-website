@@ -1,0 +1,291 @@
+[
+  {
+    "id": "cleanroom-supplies",
+    "name": "Cleanroom Supplies",
+    "slug": "cleanroom-supplies",
+    "description": "High-quality cleanroom apparel, bags, and office supplies for controlled environments.",
+    "icon": "bi-shield-check",
+    "subcategories": [
+      {
+        "id": "cleanroom-apparel",
+        "name": "Cleanroom Apparel",
+        "slug": "cleanroom-apparel",
+        "image": "asset/sub_category/Cleanroom apparel.png",
+        "description": "Cleanroom apparel refers to specialized garments designed for individuals working in cleanroom environments—spaces where strict control of airborne particles, microbes, and other contaminants is critical. Since human presence is the leading source of contamination in these settings, such apparel plays a vital role in preventing the release of particles into the environment. To be effective, cleanroom garments must be lint-free, non-shedding, and often made from antistatic or electrostatic discharge (ESD)-safe materials. They are available in sterile or non-sterile forms and may be either disposable or reusable, depending on the application. Proper use of cleanroom apparel helps maintain product quality, prevent contamination, ensure compliance with regulatory standards (such as FDA, GMP, and ISO), and protect personnel working in controlled conditions. These garments are designed to meet varying ISO cleanroom classifications, ranging from ISO Class 1 to ISO Class 9."
+      },
+      {
+        "id": "cleanroom-bag",
+        "name": "Cleanroom Bag",
+        "slug": "cleanroom-bag",
+        "image": "asset/sub_category/Cleanroom Bag.png",
+        "description": "Cleanroom packaging such as PE bags provides a low-cost protection against particulate contamination. It is ideal for packing products that are sensitive to agents like silicone and amide. Our PE bags are available in various sizes and colour, customized to your specification"
+      },
+      {
+        "id": "cleanroom-office-supplies",
+        "name": "Cleanroom Office Supplies",
+        "slug": "cleanroom-office-supplies",
+        "image": "asset/sub_category/Cleanroom Office supplies.png",
+        "description": "Cleanroom office supplies or equipment are used to facilitate work in cleanrooms while maintaining a clean environment. General office supplies are not suitable as controlling static charge and air quality is crucial inside a cleanroom. We provide stationery with low particle generation such as dust-free paper, notebooks, antistatic files, and binders."
+      },
+      {
+        "id": "finger-cot",
+        "name": "Finger Cot",
+        "slug": "finger-cot",
+        "image": "asset/sub_category/Finger cot.png",
+        "description": "Finger cots are ideal for fast and efficient finger protection against contamination, sharp objects, and other hazards. They are a great alternative to gloves because they only cover the fingertips and allow the hand to breathe. Our finger cots are widely used in various industries such as electronics, healthcare, cosmetics, food handling settings, and other situations where hygiene is necessary. For highly sensitive manufacturing sectors, finger cots are also used to prevent the flow of electro-static discharge (ESD)."
+      },
+      {
+        "id": "hairnet",
+        "name": "Hairnet",
+        "slug": "hairnet",
+        "image": "asset/sub_category/Hairnet.png",
+        "description": "Mob caps or bouffant hats are designed for full hair coverage, thus preventing cross-contamination in sensitive environments. It is suitable for all head sized due to an elastic band that keeps the cap securely in place without sliding. Our caps are made of soft, lightweight, breathable, spun-bound and non-woven polypropylene. This ensures durability and comfort to the user."
+      },
+      {
+        "id": "sandal-shoes-esd-cover",
+        "name": "Sandal, Shoes ESD & Cover",
+        "slug": "sandal-shoes-esd-cover",
+        "image": "asset/sub_category/Sandal, Shoes Esd & Cover.png",
+        "description": "Cleanroom shoes are engineered with electrostatic and dust-proof features to ensure they meet the stringent requirements of cleanroom settings. The soles are made of polyurethane or urethane, thus providing excellent cushioning properties. Our cleanroom shoes are available in various designs, sizes and colour, customized to your needs."
+      },
+      {
+        "id": "sticky-mat",
+        "name": "Sticky Mat",
+        "slug": "sticky-mat",
+        "image": "asset/sub_category/Sticky Mat.png",
+        "description": "Sticky mats are designed to effectively remove dust particles or dirt from shoe soles for contamination control. They are usually installed at the entrances and exits of cleanrooms or controlled environments such as laboratories and manufacturing facilities. Our sticky mats are made up of 30 peelable polyethylene film sheets. When a sheet becomes dirty, it can be peeled off and discarded, exposing a clean sheet underneath. This design eliminates messy and time-consuming cleaning."
+      }
+    ]
+  },
+  {
+    "id": "gloves",
+    "name": "Gloves",
+    "slug": "gloves",
+    "description": "Comprehensive range of cleanroom, industrial, and powder-free nitrile gloves.",
+    "icon": "bi-hand-index-thumb",
+    "subcategories": [
+      {
+        "id": "cleanroom-gloves",
+        "name": "Cleanroom Gloves",
+        "slug": "cleanroom-gloves",
+        "image": "asset/sub_category/Cleanroom-Gloves.png",
+        "description": "Cleanroom gloves are manufactured and packaged in controlled environments to minimise particle and microbial contamination. Available in nitrile, latex, and neoprene materials, they meet stringent ISO cleanroom classification requirements and are suitable for semiconductor, pharmaceutical, and precision manufacturing applications."
+      },
+      {
+        "id": "industrial-gloves",
+        "name": "Industrial Gloves",
+        "slug": "industrial-gloves",
+        "image": "asset/sub_category/Industrial Gloves.png",
+        "description": "Industrial gloves provide robust hand protection against mechanical hazards, chemicals, and abrasion in demanding work environments. Our range covers cut-resistant, chemical-resistant, and heat-resistant options designed to meet EN and ANSI safety standards across manufacturing, construction, and maintenance industries."
+      },
+      {
+        "id": "powder-free-gloves",
+        "name": "Powder Free Gloves",
+        "slug": "powder-free-gloves",
+        "image": "asset/sub_category/Powder-Free-Gloves.png",
+        "description": "Powder-free nitrile gloves eliminate the risk of powder contamination on sensitive components and skin irritation for frequent users. Chlorinated or polymer-coated for easy donning, they are widely used in electronics assembly, food processing, and medical applications where a clean, residue-free surface is essential."
+      }
+    ]
+  },
+  {
+    "id": "cleanroom-wipes",
+    "name": "Cleanroom Wipes",
+    "slug": "cleanroom-wipes",
+    "description": "Low-particle polyester, microfibre, and non-woven wipes for ISO-classed environments.",
+    "icon": "bi-moisture",
+    "subcategories": [
+      {
+        "id": "polyester-wipers",
+        "name": "Polyester Wipers",
+        "slug": "polyester-wipers",
+        "image": "asset/sub_category/Polyester-Wipers.png",
+        "description": "Polyester wipers are knitted from continuous-filament polyester fibres, offering extremely low particle and fibre generation. Their high absorbency, chemical resistance, and durability make them ideal for wiping critical surfaces, optics, and precision components in ISO Class 3–7 cleanrooms."
+      },
+      {
+        "id": "microfibre-wiper",
+        "name": "Microfibre Wiper",
+        "slug": "microfibre-wiper",
+        "image": "asset/sub_category/Microfibre wiper.png",
+        "description": "Microfibre wipers use ultra-fine split fibres to trap and remove sub-micron particles, oils, and residues without the need for additional solvents. Their superior cleaning performance and reusability make them a cost-effective choice for LCD panel manufacturing, semiconductor fabrication, and laboratory surface preparation."
+      },
+      {
+        "id": "non-woven-wipers",
+        "name": "Non-Woven Wipers",
+        "slug": "non-woven-wipers",
+        "image": "asset/sub_category/Non Woven Wipers.png",
+        "description": "Non-woven wipers are economical, single-use wipes produced from bonded synthetic or cellulose fibres. They deliver consistent absorbency and low linting performance suitable for general cleanroom housekeeping, equipment wiping, and spill management in ISO Class 6–9 controlled environments."
+      }
+    ]
+  },
+  {
+    "id": "cleanroom-face-masks",
+    "name": "Cleanroom Face Masks",
+    "slug": "cleanroom-face-masks",
+    "description": "Cleanroom-processed face masks for particle control in critical environments.",
+    "icon": "bi-mask",
+    "subcategories": [
+      {
+        "id": "face-mask",
+        "name": "Face Mask",
+        "slug": "face-mask",
+        "image": "asset/sub_category/FaceMasks.png",
+        "description": "Cleanroom face masks are designed to minimise the expulsion of moisture droplets and particles from the wearer's mouth and nose into the controlled environment. Available in tie-on, ear-loop, and laser-cut styles, our masks are made from low-linting, non-woven materials compatible with ISO Class 4–8 cleanroom requirements."
+      }
+    ]
+  },
+  {
+    "id": "adhesives-sealants-lubricants",
+    "name": "Adhesives, Sealants, & Lubricants",
+    "slug": "adhesives-sealants-lubricants",
+    "description": "Loctite and Cemedine solutions for industrial bonding, sealing, and maintenance.",
+    "icon": "bi-droplet-half",
+    "subcategories": [
+      {
+        "id": "loctite-anaerobic",
+        "name": "Loctite Anaerobic",
+        "slug": "loctite-anaerobic",
+        "image": "asset/sub_category/Loctite Anaerobic.png",
+        "description": "Loctite anaerobic adhesives cure in the absence of air when confined between close-fitting metal surfaces. Used for threadlocking, thread sealing, retaining, and gasketing applications, they prevent loosening from vibration and leakage, delivering excellent chemical and temperature resistance in industrial assembly."
+      },
+      {
+        "id": "loctite-cyanoacrylate",
+        "name": "Loctite Cyanoacrylate",
+        "slug": "loctite-cyanoacrylate",
+        "image": "asset/sub_category/Loctite Cyanoacrylate.png",
+        "description": "Loctite cyanoacrylate adhesives are fast-curing instant adhesives that bond a wide variety of substrates including rubber, plastics, metals, and ceramics within seconds. Their high strength and versatility make them a go-to solution for assembly, repair, and bonding tasks across electronics, automotive, and medical device manufacturing."
+      },
+      {
+        "id": "loctite-epoxy",
+        "name": "Loctite Epoxy",
+        "slug": "loctite-epoxy",
+        "image": "asset/sub_category/Loctite Epoxy.png",
+        "description": "Loctite epoxy adhesives offer exceptional structural strength and resistance to heat, chemicals, and impact. Available in two-part mixing systems with various cure speeds, they are suited for bonding dissimilar materials, filling gaps, and potting applications in demanding industrial and engineering environments."
+      },
+      {
+        "id": "loctite-silicone-sealant",
+        "name": "Loctite Silicone Sealant",
+        "slug": "loctite-silicone-sealant",
+        "image": "asset/sub_category/Loctite Silicone Sealant.png",
+        "description": "Loctite silicone sealants provide flexible, waterproof seals that withstand extreme temperatures ranging from -60°C to 260°C. Their excellent adhesion to glass, ceramic, metal, and most plastics makes them ideal for sealing joints, gaskets, and enclosures in electronics, HVAC, and general industrial maintenance."
+      },
+      {
+        "id": "loctite-uv-adhesives",
+        "name": "Loctite Ultraviolet Adhesives",
+        "slug": "loctite-uv-adhesives",
+        "image": "asset/sub_category/Loctite Ultraviolet Adhesives.png",
+        "description": "Loctite UV-cure adhesives polymerise rapidly when exposed to ultraviolet light, enabling precise, on-demand bonding for high-speed production lines. They are widely used in optics, medical devices, and electronics for bonding glass, clear plastics, and coated substrates where minimal heat exposure is required."
+      },
+      {
+        "id": "loctite-structure-adhesive",
+        "name": "Loctite Structure Adhesive",
+        "slug": "loctite-structure-adhesive",
+        "image": "asset/sub_category/Loctite Structure Adhesive.png",
+        "description": "Loctite structural adhesives are engineered for load-bearing joints that demand high peel, shear, and impact strength. Formulated in two-part acrylic and epoxy systems, they bond metals, composites, and plastics with minimal surface preparation, replacing welding and mechanical fasteners in lightweight structural assemblies."
+      },
+      {
+        "id": "cemedine-adhesive",
+        "name": "Cemedine Adhesive",
+        "slug": "cemedine-adhesive",
+        "image": "asset/sub_category/Cemedine Adhesive.png",
+        "description": "Cemedine adhesives are a trusted Japanese brand offering a broad range of high-performance bonding solutions including epoxies, modified silicones, and contact adhesives. Known for their reliability and material compatibility, Cemedine products are used in construction, electronics, automotive, and precision manufacturing applications."
+      },
+      {
+        "id": "activator-accelerator",
+        "name": "Activator & Accelerator",
+        "slug": "activator-accelerator",
+        "image": "asset/sub_category/Activator & Accelerator.png",
+        "description": "Activators and accelerators are surface treatment products applied prior to or alongside adhesives to promote faster cure, improve adhesion on difficult substrates, or extend working life. Compatible with anaerobic, cyanoacrylate, and structural adhesive systems, they are essential for optimising bonding performance in challenging assembly conditions."
+      },
+      {
+        "id": "loctite-primer",
+        "name": "Loctite Primer",
+        "slug": "loctite-primer",
+        "image": "asset/sub_category/Loctite Primer.png",
+        "description": "Loctite primers prepare passive or low-energy surfaces such as stainless steel, aluminium, and certain plastics to achieve reliable adhesive bonding and anaerobic cure. Applied as a thin coat before the adhesive, primers significantly improve bond strength and consistency on materials that are otherwise difficult to bond."
+      },
+      {
+        "id": "loctite-cleaner",
+        "name": "Loctite Cleaner",
+        "slug": "loctite-cleaner",
+        "image": "asset/sub_category/Loctite Cleaner.png",
+        "description": "Loctite cleaners and surface preparation products remove oils, greases, cured adhesive residues, and contaminants from substrates prior to bonding or sealing. Available in spray and liquid formats, they ensure surfaces are chemically clean, maximising adhesive contact area and long-term joint durability."
+      }
+    ]
+  },
+  {
+    "id": "chemicals",
+    "name": "Chemicals",
+    "slug": "chemicals",
+    "description": "Industrial-grade chemicals and cleaning agents for precision manufacturing.",
+    "icon": "bi-flask",
+    "subcategories": [
+      {
+        "id": "knightclean",
+        "name": "KnightClean",
+        "slug": "knightclean",
+        "image": "asset/sub_category/KnightClean.png",
+        "description": "KnightClean is a range of high-purity cleaning chemicals formulated for precision industrial and cleanroom applications. Designed to remove flux residues, particulates, and organic contaminants from sensitive surfaces, KnightClean products are compatible with a wide range of materials and compliant with environmental and safety standards."
+      }
+    ]
+  },
+  {
+    "id": "equipment",
+    "name": "Equipment",
+    "slug": "equipment",
+    "description": "Advanced dispensing equipment and industrial machinery solutions.",
+    "icon": "bi-gear-wide-connected",
+    "subcategories": [
+      {
+        "id": "loctite-equipment",
+        "name": "Loctite Equipment",
+        "slug": "loctite-equipment",
+        "image": "asset/sub_category/Loctite Equipment.png",
+        "description": "Loctite dispensing equipment enables precise, repeatable application of adhesives, sealants, and coatings in automated and manual assembly processes. From handheld applicators to benchtop dispensers and spray systems, Loctite equipment ensures consistent deposit volumes, reduced waste, and improved production throughput."
+      },
+      {
+        "id": "nordson-equipment",
+        "name": "Nordson Equipment",
+        "slug": "nordson-equipment",
+        "image": "asset/sub_category/Nordson Equipment.png",
+        "description": "Nordson is a global leader in precision dispensing, testing, and inspection equipment. Their systems deliver accurate fluid application for adhesives, sealants, conformal coatings, and encapsulants in electronics and industrial manufacturing, ensuring process reliability and minimising material consumption."
+      }
+    ]
+  },
+  {
+    "id": "ppe",
+    "name": "Personal Protective Equipment (PPE)",
+    "slug": "ppe",
+    "description": "Essential safety gear including head protection, eyewear, footwear, and respirators.",
+    "icon": "bi-person-badge",
+    "subcategories": [
+      {
+        "id": "apparel",
+        "name": "Apparel",
+        "slug": "apparel",
+        "image": "asset/sub_category/Apparel.png",
+        "description": "PPE apparel includes coveralls, safety vests, chemical-resistant suits, and disposable garments designed to protect workers from hazardous materials, splashes, and physical injury. Our range meets international safety standards and is available in various protection levels to suit different industrial risk environments."
+      },
+      {
+        "id": "footwear",
+        "name": "Footwear",
+        "slug": "footwear",
+        "image": "asset/sub_category/Footwear.png",
+        "description": "Safety footwear protects workers from impact, compression, puncture, and electrical hazards on the job. Our selection includes safety boots and shoes with steel or composite toe caps, anti-slip soles, and ESD-rated options, all certified to meet EN ISO 20345 and relevant workplace safety standards."
+      },
+      {
+        "id": "accessories",
+        "name": "Accessories",
+        "slug": "accessories",
+        "image": "asset/sub_category/Accessories.png",
+        "description": "PPE accessories complement primary protective equipment to provide comprehensive worker safety. Our range includes safety helmets, hard hats, ear defenders, safety goggles, face shields, knee pads, and hi-visibility products, ensuring full-body protection compliance across construction, manufacturing, and industrial worksites."
+      },
+      {
+        "id": "bullard-papr",
+        "name": "Bullard PAPR",
+        "slug": "bullard-papr",
+        "image": "asset/sub_category/Bullard.png",
+        "description": "Bullard Powered Air-Purifying Respirators (PAPRs) deliver a continuous flow of filtered air to the wearer, offering superior respiratory protection in environments with airborne particles, fumes, and chemical hazards. Their loose-fitting hoods eliminate fit-testing requirements, making them suitable for a wide range of users in industrial and healthcare settings."
+      }
+    ]
+  }
+]

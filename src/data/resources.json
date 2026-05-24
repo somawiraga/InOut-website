@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cleanroom-classification-guide",
+    "type": "documentation",
+    "title": "Understanding Cleanroom Classifications: ISO 14644 and Federal Standards",
+    "slug": "cleanroom-classification-guide",
+    "content": "# Understanding Cleanroom Classifications\n\nCleanrooms are classified by the concentration of airborne particles allowed per cubic metre of air. The two dominant standards are **ISO 14644-1** and the legacy **US Federal Standard 209E**.\n\n## ISO Classes at a Glance\n\n| ISO Class | Max particles ≥0.1 µm/m³ | Equivalent Fed Std |\n|-----------|--------------------------|---------------------|\n| ISO 1     | 10                       | —                   |\n| ISO 3     | 1,000                    | Class 1             |\n| ISO 4     | 10,000                   | Class 10            |\n| ISO 5     | 100,000                  | Class 100           |\n| ISO 6     | 1,000,000                | Class 1,000         |\n| ISO 7     | 10,000,000               | Class 10,000        |\n\n## Choosing the Right Consumables\n\nEach ISO class demands consumables processed and packaged in an equal or cleaner environment. For ISO 4 and below, KnightClean gloves, wipes, and garments are processed in our ISO 4 cleanroom facility — ensuring your production environment stays uncontaminated.\n\n## Key Takeaways\n\n- Match your consumable's cleanroom process class to your production class.\n- Look for LPC (Liquid Particle Count) and NVR (Non-Volatile Residue) certifications.\n- Double-bag packaging adds a layer of contamination protection during transport.",
+    "date": "2025-11-10",
+    "tags": ["cleanroom", "ISO 14644", "classification", "guide"]
+  },
+  {
+    "id": "choosing-right-gloves",
+    "type": "documentation",
+    "title": "How to Choose the Right Cleanroom Gloves for Your Application",
+    "slug": "choosing-right-gloves",
+    "content": "# Choosing the Right Cleanroom Gloves\n\nGloves are the most-changed consumable in any cleanroom. Selecting the wrong type can introduce particles, extractables, or chemical contamination — so the decision matters.\n\n## Material Options\n\n### Nitrile\nThe most common choice for general cleanroom use. Powder-free nitrile gloves offer excellent chemical resistance to solvents, acids, and bases. Low in particulates and extractables. Suitable for ISO Class 5 and above.\n\n### Latex\nSuperior tactile sensitivity. Avoid where latex allergies are a concern. Less chemical resistant than nitrile.\n\n### Neoprene\nHigh resistance to a broad chemical spectrum. Preferred for handling aggressive solvents in chemical and pharmaceutical environments.\n\n### Polyisoprene\nLatex-free with latex-like feel. Used in pharmaceutical and medical device assembly where sensitivity is critical.\n\n## Key Specifications to Check\n\n- **AQL (Acceptable Quality Level):** AQL 1.5 or better for critical applications\n- **LPC (Liquid Particle Count):** particles ≥0.5 µm per cm²\n- **NVR (Non-Volatile Residue):** µg/cm² — lower is better\n- **ESD properties:** Required for semiconductor and electronics\n\n## InOut Recommendation\n\nFor ISO 4–6 semiconductor and electronics work, the **KnightClean TC-TQ12** nitrile gloves (AQL 1.5, chlorinated, anti-static, packed in ISO 4) deliver the contamination control you need.",
+    "date": "2025-12-03",
+    "tags": ["gloves", "nitrile", "cleanroom", "PPE", "selection guide"]
+  },
+  {
+    "id": "loctite-threadlocking-guide",
+    "type": "documentation",
+    "title": "A Practical Guide to Loctite Threadlocking Compounds",
+    "slug": "loctite-threadlocking-guide",
+    "content": "# Loctite Threadlocking: Which Grade Do You Need?\n\nThreadlocking adhesives prevent fasteners from loosening due to vibration. Choosing the right grade determines whether you can disassemble later — or at all.\n\n## Strength Grades\n\n| Colour | Grade | Removal | Typical Use |\n|--------|-------|---------|-------------|\n| Purple | 222   | Hand tools | Small fasteners, instruments |\n| Blue   | 243   | Hand tools | General maintenance, M6–M20 |\n| Red    | 271   | Heat required | Permanent assemblies, studs |\n| Green  | 290   | Hand tools | Wicking into pre-assembled joints |\n\n## Application Tips\n\n1. **Clean and degrease** threads — use Loctite SF 7063 for best adhesion.\n2. **Apply to male thread** — one or two drops are sufficient.\n3. **Allow full cure** — typically 24 hours at room temperature; use SF 7109 accelerator to speed up curing.\n4. **Temperature:** Most threadlockers are effective from -55°C to +150°C.\n\n## When to Use an Activator\n\nPassive metals (stainless steel, zinc-plated steel) cure slowly with anaerobic adhesives. Apply **Loctite SF 7649** primer or **SF 7109** accelerator to the female thread for reliable cure in under 10 minutes.",
+    "date": "2026-01-15",
+    "tags": ["adhesives", "Loctite", "threadlocking", "maintenance", "guide"]
+  },
+  {
+    "id": "ppe-compliance-singapore",
+    "type": "documentation",
+    "title": "PPE Compliance in Singapore: What Manufacturers Need to Know",
+    "slug": "ppe-compliance-singapore",
+    "content": "# PPE Compliance in Singapore\n\nWorkplace safety in Singapore is governed by the **Workplace Safety and Health (WSH) Act** and associated regulations enforced by the **Ministry of Manpower (MOM)**. For manufacturers, selecting compliant PPE is both a legal and operational imperative.\n\n## Key Regulatory Standards\n\n### Head Protection\n- Hard hats must meet **ANSI/ISEA Z89.1** (Type I/II, Class E/G/C) or **EN 397**.\n- Bullard C33 and AboveView™ helmets are rated Type I, Class E and G — suitable for construction, utilities, and general site work.\n\n### Eye and Face Protection\n- Protective eyewear should comply with **ANSI Z87.1** or **EN 166**.\n- Safety goggles are required when working with chemicals, flying particles, or laser hazards.\n\n### Respiratory Protection\n- For chemical environments, select respirators rated to **EN 149 (FFP2/FFP3)** or **NIOSH N95/P100**.\n- Surgical-style face masks (Cleanera 3-ply) are suitable for particle control, not chemical vapours.\n\n## Buyer Checklist\n\n- [ ] Verify certifications listed on the product datasheet.\n- [ ] Ensure PPE is appropriate for the specific hazard (impact, chemical, electrical).\n- [ ] Inspect PPE before each use and replace after any impact or damage.\n- [ ] Keep records of PPE issue, inspection, and replacement.",
+    "date": "2026-02-20",
+    "tags": ["PPE", "compliance", "Singapore", "WSH", "safety"]
+  },
+  {
+    "id": "cleanroom-wipes-selection",
+    "type": "documentation",
+    "title": "Cleanroom Wipes: Polyester, Microfibre, or Cellulose?",
+    "slug": "cleanroom-wipes-selection",
+    "content": "# Cleanroom Wipes: Which Material Is Right?\n\nNot all cleanroom wipes are created equal. The substrate material determines particle generation, liquid absorption, solvent compatibility, and the ISO class the wipe is suitable for.\n\n## Material Comparison\n\n### Polyester Knit (e.g. KnightClean TC series)\n- **Best for:** ISO Class 3–5\n- Very low particle and fibre generation\n- Excellent solvent resistance (acetone, IPA, MEK)\n- Can be autoclaved\n- Higher cost — use where contamination risk is highest\n\n### Microfibre Blend (Polyester/Nylon)\n- **Best for:** ISO Class 5–7\n- Superior liquid pick-up and retention\n- Low lint, high absorbency\n- Good for general surface wiping and spill control\n\n### Non-woven Cellulose/Polyester\n- **Best for:** ISO Class 6–8 or general industrial\n- High absorbency, biodegradable options available\n- Higher particle and fibre count than knit polyester\n- Cost-effective for high-volume applications\n\n## Common Sizes and Formats\n\n- **5\" × 5\"** — component handling, spot cleaning\n- **9\" × 9\"** — general surface wiping\n- **12\" × 12\"** — equipment cleaning, large surface areas\n\n## Selection Summary\n\nFor critical ISO 4–5 semiconductor or pharmaceutical processes, choose knit polyester. For ISO 6–7 electronics assembly, a quality microfibre blend balances performance and cost.",
+    "date": "2026-03-05",
+    "tags": ["wipes", "cleanroom", "polyester", "microfibre", "selection guide"]
+  }
+]
