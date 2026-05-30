@@ -5,7 +5,7 @@ import { Footer } from '../components/layout/Footer'
 import { BackToTop } from '../components/layout/BackToTop'
 import { Pagination } from '../components/ui/Pagination'
 import { useProductGroups } from '../hooks/useProductGroups'
-import { useProducts } from '../hooks/useProducts'
+import { useProducts, useProductsLoading } from '../hooks/useProducts'
 import { categoryImages } from '../data/categoryImages'
 
 const PAGE_SIZE = 20
@@ -16,6 +16,7 @@ export function ProductsPage() {
   const q = searchParams.get('search') ?? ''
   const groups = useProductGroups()
   const products = useProducts()
+  const { loading, error } = useProductsLoading()
   const [page, setPage] = useState(1)
 
   const searchResults = q
@@ -37,6 +38,9 @@ export function ProductsPage() {
     setPage(newPage)
     window.scrollTo({ top: 0, behavior: 'smooth' })
   }
+
+  if (loading) return <div className="section-pad">Loading products…</div>
+  if (error) return <div className="section-pad">Failed to load products: {error}</div>
 
   return (
     <>

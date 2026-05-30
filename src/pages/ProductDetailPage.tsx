@@ -5,7 +5,7 @@ import { PageHeader } from '../components/layout/PageHeader'
 import { Footer } from '../components/layout/Footer'
 import { BackToTop } from '../components/layout/BackToTop'
 import { useProductDetail } from '../hooks/useProductDetail'
-import { useProducts } from '../hooks/useProducts'
+import { useProducts, useProductsLoading } from '../hooks/useProducts'
 import { useProductGroups } from '../hooks/useProductGroups'
 import { useEnquiryModal } from '../contexts/EnquiryModalContext'
 import type { Product } from '../types'
@@ -126,6 +126,7 @@ function ISOTable() {
 
 // ── Main Page ─────────────────────────────────────────────────────────────────
 export function ProductDetailPage() {
+  const { loading, error } = useProductsLoading()
   const product = useProductDetail()
   const products = useProducts()
   const groups = useProductGroups()
@@ -169,6 +170,9 @@ export function ProductDetailPage() {
         p.id !== product.id,
     )
   }, [product, products])
+
+  if (loading) return <div className="section-pad">Loading product…</div>
+  if (error) return <div className="section-pad">Failed to load product: {error}</div>
 
   if (!product) {
     return (
