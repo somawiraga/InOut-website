@@ -4,7 +4,7 @@ import { PageHeader } from '../components/layout/PageHeader'
 import { Footer } from '../components/layout/Footer'
 import { BackToTop } from '../components/layout/BackToTop'
 import { useProductGroups } from '../hooks/useProductGroups'
-import { useProducts } from '../hooks/useProducts'
+import { useProducts, useProductsLoading } from '../hooks/useProducts'
 import { subcategoryImages } from '../data/subcategoryImages'
 import { categoryImages } from '../data/categoryImages'
 const PAGE_SIZE = 10
@@ -13,6 +13,7 @@ export function ProductGroupPage() {
   const { groupSlug, subSlug } = useParams<{ groupSlug: string; subSlug?: string }>()
   const groups = useProductGroups()
   const products = useProducts()
+  const { loading, error } = useProductsLoading()
   const [page, setPage] = useState(1)
   const [prevSubSlug, setPrevSubSlug] = useState(subSlug)
   if (prevSubSlug !== subSlug) {
@@ -45,6 +46,9 @@ export function ProductGroupPage() {
 
   const totalPages = Math.max(1, Math.ceil(filteredProducts.length / PAGE_SIZE))
   const pagedProducts = filteredProducts.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
+
+  if (loading) return <div className="section-pad">Loading products…</div>
+  if (error) return <div className="section-pad">Failed to load products: {error}</div>
 
   if (!group) {
     return (
